@@ -1,0 +1,8 @@
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Panasonic', 800, NOW())
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Samsung', 700, NOW())
+INSERT INTO productos (nombre, precio, create_at) VALUES ('LG', 650, NOW())
+INSERT INTO productos (nombre, precio, create_at) VALUES ('HP', 654, NOW())
+INSERT INTO productos (nombre, precio, create_at) VALUES ('DELL', 7800, NOW())
+INSERT INTO productos (nombre, precio, create_at) VALUES ('HONDA', 6542, NOW())
+INSERT INTO productos (nombre, precio, create_at) VALUES ('TOYOTA', 6500, NOW())
+INSERT INTO productos (nombre, precio, create_at) VALUES ('KYA', 3200, NOW())
